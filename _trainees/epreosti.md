@@ -1,18 +1,17 @@
 ---
 layout: collaborator
 active: true
-shortname: <epreosti>
+shortname: epreosti
 name: Elettra Preosti
 start_date: "25-07-31"
 end_date: "ongoing"
 photo: /assets/images/trainees/Elettra-Preosti.jpg
 institution: Princeton University
 training_modules: Software Engineering for Scientific Computing, FPGA training module
--
-e-mail: <your@email.com>
+e-mail: ep1627@princeton.edu
 networks:
-  - <CMS|Mu2e|MICE>
-github-username: <epreosti>
+  - cms
+github-username: epreosti
 presentations:
 ---
 
