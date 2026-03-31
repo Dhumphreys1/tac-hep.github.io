@@ -5,7 +5,7 @@ shortname: epreosti
 name: Elettra Preosti
 start_date: "25-07-31"
 end_date: "ongoing"
-photo: /assets/images/trainees/Elettra-Preosti.jpg
+photo: /assets/images/trainees/Preosti-Elettra.jpg
 institution: Princeton University
 training_modules: Software Engineering for Scientific Computing, FPGA training module
 e-mail: ep1627@princeton.edu
